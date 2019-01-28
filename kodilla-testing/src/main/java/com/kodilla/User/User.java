@@ -1,9 +1,9 @@
-package com.kodilla.user;
+package com.kodilla.User;
 
-public class SimpleUser {
+public class User {
     private String username;
 
-    public SimpleUser(String username) {
+    public User(String username) {
         this.username = username;
     }
 
