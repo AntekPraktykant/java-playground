@@ -1,3 +1,4 @@
-rootProject.name = 'java-playground'
-include 'testing'
+//rootProject.name = 'java-playground'
+rootProject.name = 'com.kodilla'
+include 'kodilla-testing'
 
