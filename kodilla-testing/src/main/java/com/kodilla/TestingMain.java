@@ -1,4 +1,4 @@
-package com.testing;
+package com.kodilla;
 
 public class TestingMain {
     public static void main(String[] args){
